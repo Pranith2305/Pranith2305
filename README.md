@@ -1,4 +1,4 @@
-# Pranith Kumar :tech enthuenthusiast
+# Pranith Kumar :tech enthusiast
 
 ## ⚡ Languages, Tools and Technologies
 
