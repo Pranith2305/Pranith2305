@@ -79,6 +79,6 @@
 
 
 ## Experience :briefcase:
-* BRAND-IT HACKATHON WINNER
-* UI/UX DESIGNER AT TEDX BIT 
+* UI/UX Designer | Award-Winning Designs | BRAND-IT Hackathon Champion
+* UI/UX Designer | TEDx BIT | Creating Meaningful Experiences
 
