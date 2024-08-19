@@ -51,7 +51,7 @@
 </tr>
 <tr>
 <td>
-<img src = "https://skillicons.dev/icons?i=nodejs,postgresql,mongodb,supabase,express&theme=dark">
+<img src = "https://skillicons.dev/icons?i=nodejs,postgresql,mongodb,neon,express&theme=dark">
 </td>
 <td>
 <img src = "https://skillicons.dev/icons?i=postman,graphql,fastapi&theme=dark">
@@ -60,7 +60,7 @@
 <img src = "https://skillicons.dev/icons?i=c,cpp,py,js,ts&theme=dark">
 </td>
 <td>
-<img src = "https://skillicons.dev/icons?i=md,raspberrypi,arduino,blender&theme=dark">
+<img src = "https://skillicons.dev/icons?i=md,blender,adobe&theme=dark">
 </td>
 </tr>
 </table>
