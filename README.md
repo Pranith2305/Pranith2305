@@ -1,4 +1,4 @@
-# Pranith Kumar : tech enthusiast
+# Pranith Kumar : MERN DEVELOPER
 
 ## ⚡ Languages, Tools and Technologies
 
