@@ -79,6 +79,7 @@
 
 
 ## Experience :briefcase:
+* MERN STACK INTERN | OPENINTERVUE
 * UI/UX Designer | Award-Winning Designs | BRAND-IT Hackathon Champion
 * UI/UX Designer | TEDx BIT | Creating Meaningful Experiences
 
