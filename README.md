@@ -1,4 +1,4 @@
-# Pranith Kumar : MERN DEVELOPER 
+# Pranith Kumar : FULL STACK DEVELOPER
 
 
 ## ⚡ Languages, Tools and Technologies
