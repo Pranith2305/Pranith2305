@@ -68,7 +68,7 @@
 <hr>
 
 
-<table>
+<!-- <table>
 <tr>
 <td colspan = "2">
 <a href = "https://pranith-portfolio-bimfpo0e5-pranith-kumar-ks-projects.vercel.app//">
@@ -76,7 +76,7 @@
 </a>
 </td>
 </tr>
-</table>
+</table> -->
 
 
 ## Experience :briefcase:
